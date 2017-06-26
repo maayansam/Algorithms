@@ -1,8 +1,5 @@
 package com.example.Algo.kthElement;
 
-/**
- * Created by maayan.s on 4/17/17.
- */
 /*public class kthElement {
 
     public static int kthElem(int[] arr, int start, int end, int k) {

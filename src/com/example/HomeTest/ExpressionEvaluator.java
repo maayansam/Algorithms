@@ -3,9 +3,7 @@ package com.example.HomeTest;
 import java.util.Map;
 import java.util.HashMap;
 
-/**
- * Created by maayan.s on 1/8/17.
- */
+
 public class ExpressionEvaluator {
 
     private static final int NEW_SIZE = 2;

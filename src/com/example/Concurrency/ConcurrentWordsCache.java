@@ -4,9 +4,6 @@ import java.util.Iterator;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.atomic.LongAdder;
 
-/**
- * Created by maayan.s on 1/2/17.
- */
 public class ConcurrentWordsCache {
 
     private static ConcurrentHashMap<String, LongAdder> myHashMap = new ConcurrentHashMap<String, LongAdder>(32768, 0.9f, 1);

@@ -3,9 +3,6 @@ package com.example.RandomLines;
 import java.io.IOException;
 import java.util.List;
 
-/**
- * Created by maayan.s on 1/3/17.
- */
 public class Executer {
 
     static final String IO_FILE  = "file.txt";

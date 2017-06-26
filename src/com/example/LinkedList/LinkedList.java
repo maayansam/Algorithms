@@ -3,9 +3,7 @@ package com.example.LinkedList;
 import java.util.Iterator;
 import java.util.NoSuchElementException;
 
-/**
- * Created by maayan.s on 12/22/16.
- */
+
 public class LinkedList implements Iterable<Linkable> {
 
     private Linkable head;

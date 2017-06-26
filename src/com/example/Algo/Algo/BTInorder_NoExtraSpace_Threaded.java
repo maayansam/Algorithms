@@ -1,8 +1,5 @@
 package com.example.Algo.Algo;
 
-/**
- * Created by maayan.s on 3/31/17.
- */
 // Java program to print inorder traversal without recursion and stack
 
 /* A binary tree tNode has data, pointer to left child

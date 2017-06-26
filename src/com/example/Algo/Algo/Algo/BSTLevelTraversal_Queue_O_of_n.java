@@ -1,8 +1,5 @@
 package com.example.Algo.Algo.Algo;
 
-/**
- * Created by maayan.s on 3/31/17.
- */
 //Algorithm:
         //For each node, first the node is visited and then it’s child nodes are put in a FIFO queue.
 // Iterative Queue based Java program to do level order traversal

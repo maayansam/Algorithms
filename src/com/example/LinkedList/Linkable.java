@@ -1,8 +1,5 @@
 package com.example.LinkedList;
 
-/**
- * Created by maayan.s on 12/22/16.
- */
 public interface Linkable {
 
     // returns the next element in the list

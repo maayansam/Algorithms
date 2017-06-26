@@ -2,9 +2,6 @@ package com.example.HomeTest;
 
 import java.io.Serializable;
 
-/**
- * Created by maayan.s on 1/10/17.
- */
 public class Operator implements Serializable {
 
 

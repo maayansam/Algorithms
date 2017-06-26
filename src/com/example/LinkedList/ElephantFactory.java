@@ -1,8 +1,5 @@
 package com.example.LinkedList;
 
-/**
- * Created by maayan.s on 12/25/16.
- */
 
 public class ElephantFactory extends LinkableFactory<Elephant> {
 

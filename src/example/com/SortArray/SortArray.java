@@ -6,9 +6,7 @@ import java.util.List;
 import java.util.Random;
 import java.util.Arrays;
 
-/**
- * Created by maayan.s on 12/14/16.
- */
+
 public class SortArray {
 
     public static void main (String[] args){

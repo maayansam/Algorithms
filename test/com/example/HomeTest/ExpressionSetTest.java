@@ -6,9 +6,6 @@ import java.util.Arrays;
 
 import static org.junit.Assert.*;
 
-/**
- * Created by maayan.s on 1/19/17.
- */
 public class ExpressionSetTest {
     @Test
     public void getKey() throws Exception {

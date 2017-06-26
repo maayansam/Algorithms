@@ -4,10 +4,6 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
-
-/**
- * Created by maayan.s on 12/22/16.
- */
 public class RandomAnimalType {
 
     private static final int MINIMUM_INDEX = 0;

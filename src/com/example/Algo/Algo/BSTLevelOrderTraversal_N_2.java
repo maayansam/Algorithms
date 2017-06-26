@@ -1,8 +1,5 @@
 package com.example.Algo.Algo;
 
-/**
- * Created by maayan.s on 3/31/17.
- */
 
 
     // Recursive Java program for level order traversal of Binary Tree

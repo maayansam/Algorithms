@@ -4,9 +4,7 @@ import com.google.common.base.Preconditions;
 import java.util.Random;
 import java.security.*;
 
-/**
- * Created by maayan.s on 12/14/16.
- */
+
 public class HelloWorld {
 
     public static void main (String[] args){

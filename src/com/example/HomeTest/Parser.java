@@ -6,9 +6,6 @@ import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-/**
- * Created by maayan.s on 1/16/17.
- */
 public class Parser {
 
     private static final String VAR_REGEX = "[a-zA-Z]\\w{0,100}";

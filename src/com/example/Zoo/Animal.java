@@ -4,9 +4,6 @@ import java.util.concurrent.atomic.AtomicInteger;
 import java.io.*;
 import sun.audio.*;
 
-/**
- * Created by maayan.s on 12/20/16.
- */
 public abstract class Animal {
 
     private final static int DEAFUALT_INNER = 0;

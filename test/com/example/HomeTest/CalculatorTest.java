@@ -6,9 +6,6 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
-/**
- * Created by maayan.s on 1/19/17.
- */
 public class CalculatorTest {
 
     String num1;

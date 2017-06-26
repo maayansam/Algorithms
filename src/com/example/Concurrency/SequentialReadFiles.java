@@ -10,10 +10,6 @@ import java.util.stream.Collectors;
 import java.util.stream.Stream;
 import java.util.stream.StreamSupport;
 
-
-/**
- * Created by maayan.s on 12/28/16.
- */
 public class SequentialReadFiles {
 
     //static final String[] files = {"file.txt", "file1.txt", "file2.txt"};

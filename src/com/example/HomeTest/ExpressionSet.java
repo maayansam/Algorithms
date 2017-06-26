@@ -5,9 +5,7 @@ import java.lang.String;
 import java.util.Arrays;
 import java.util.stream.Stream;
 
-/**
- * Created by maayan.s on 1/20/17.
- */
+
 public class ExpressionSet implements Serializable {
 
         private static final int VARIABLE_INDEX = 0;

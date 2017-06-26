@@ -2,9 +2,6 @@ package com.example.HomeTest;
 
 import java.util.*;
 
-/**
- * Created by maayan.s on 1/8/17.
- */
 public class ShuntingYard {
 
     private Queue<String> output = null;

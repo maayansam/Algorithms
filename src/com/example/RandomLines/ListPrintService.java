@@ -3,9 +3,6 @@ package com.example.RandomLines;
 import java.util.List;
 import java.util.Random;
 
-/**
- * Created by maayan.s on 1/3/17.
- */
 public class ListPrintService {
 
     private static String getRandomLine(List<String> list, int bound) {

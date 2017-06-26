@@ -8,9 +8,7 @@ import java.util.Queue;
 
 import static org.junit.Assert.*;
 
-/**
- * Created by maayan.s on 1/24/17.
- */
+
 public class PostfixTest {
     @Before
     public void setUp() throws Exception {

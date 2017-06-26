@@ -1,8 +1,5 @@
 package com.example.Algo.Graph;
 
-/**
- * Created by maayan.s on 3/30/17.
- */
 // Java program to print DFS traversal from a given given graph
 import java.io.*;
 import java.util.*;

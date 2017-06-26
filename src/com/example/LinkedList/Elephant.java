@@ -1,9 +1,5 @@
 package com.example.LinkedList;
 
-/**
- * Created by maayan.s on 12/22/16.
- */
-
 import java.util.concurrent.atomic.AtomicInteger;
 
 public class Elephant extends Animal  {

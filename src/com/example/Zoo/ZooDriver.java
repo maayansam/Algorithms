@@ -2,9 +2,7 @@ package com.example.Zoo;
 import java.util.*;
 import java.util.concurrent.TimeUnit;
 
-/**
- * Created by maayan.s on 12/20/16.
- */
+
 public class ZooDriver {
 
     private final static int ZOO_SIZE = 10;

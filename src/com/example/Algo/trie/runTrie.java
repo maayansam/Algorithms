@@ -2,9 +2,7 @@ package com.example.Algo.trie;
 
 import java.util.List;
 
-/**
- * Created by maayan.s on 4/14/17.
- */
+
 public class runTrie {
 
     //We will be maintaining a trie. Each node in the trie will contain the following information:

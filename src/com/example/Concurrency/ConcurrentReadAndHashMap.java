@@ -5,9 +5,6 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
 
-/**
- * Created by maayan.s on 1/1/17.
- */
 public class ConcurrentReadAndHashMap {
 
     static final String IO_FILE  = "file.txt";

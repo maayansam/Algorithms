@@ -3,9 +3,6 @@ package com.example.Algo.Premutation;
 import java.util.HashSet;
 import java.util.Set;
 
-/**
- * Created by maayan.s on 4/15/17.
- */
 public class premuteFromNumberToNumberConstraint {
 // Assume input is correct
     public static void printWithConstraint(int startNum, int endNum) {

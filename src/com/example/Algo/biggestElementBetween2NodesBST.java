@@ -1,8 +1,5 @@
 /*package com.example.Algo;
 
-/**
- * Created by maayan.s on 3/31/17.
- */
 // C++ program to find maximum element in the path
 // between two Nodes of Binary Search Tree.
 /*include <bits/stdc++.h>

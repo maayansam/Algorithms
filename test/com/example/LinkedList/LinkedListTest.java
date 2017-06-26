@@ -8,9 +8,6 @@ import org.junit.Before;
 import org.junit.Test;
 import java.util.*;
 
-/**
- * Created by maayan.s on 12/25/16.
- */
 public class LinkedListTest {
 
     //@Before every test method import org.junit.before; set up to run before a test

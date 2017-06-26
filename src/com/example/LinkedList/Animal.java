@@ -1,9 +1,7 @@
 package com.example.LinkedList;
 
 
-/**
- * Created by maayan.s on 12/20/16.
- */
+
 public abstract class Animal implements Linkable {
 
     private final static int DEAFUALT_INNER = 0;

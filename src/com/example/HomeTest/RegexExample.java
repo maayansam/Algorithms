@@ -7,9 +7,6 @@ import java.util.regex.MatchResult;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-/**
- * Created by maayan.s on 1/16/17.
- */
 public class RegexExample {
     private static final String VAR_REGEX = "[a-zA-Z]\\w{0,100}";
     private static final String BIN_OPERATOR = "\\+|-|\\*|/|%|^";

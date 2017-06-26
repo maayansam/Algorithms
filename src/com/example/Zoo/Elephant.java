@@ -2,9 +2,6 @@ package com.example.Zoo;
 
 import java.util.concurrent.atomic.AtomicInteger;
 
-/**
- * Created by maayan.s on 12/20/16.
- */
 public class Elephant extends Animal {
 
     private static final AtomicInteger count = new AtomicInteger(0);

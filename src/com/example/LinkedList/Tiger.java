@@ -2,10 +2,6 @@ package com.example.LinkedList;
 
 import java.util.concurrent.atomic.AtomicInteger;
 
-/**
- * Created by maayan.s on 12/20/16.
- */
-
 // TODO: Animal should be Linkable
 public class Tiger extends Animal  {
 

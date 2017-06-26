@@ -1,8 +1,5 @@
 package com.example.Algo.Graph;
 
-/**
- * Created by maayan.s on 3/30/17.
- */
 // Java program to print BFS traversal from a given source vertex.
 // BFS(int s) traverses vertices reachable from s.
 import java.io.*;

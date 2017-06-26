@@ -1,8 +1,6 @@
 package com.example.LinkedList;
 
-/**
- * Created by maayan.s on 12/22/16.
- */
+
 public class LinkedAnimalsProgram {
 
     private final static int LIST_HEAD_TAIL_ADDITION = 5;

@@ -1,8 +1,6 @@
 package com.example.BST;
 
-/**
- * Created by maayan.s on 3/25/17.
- */
+
 public class Node {
 
     private int value;

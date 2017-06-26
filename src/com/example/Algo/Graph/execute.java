@@ -1,8 +1,5 @@
 package com.example.Algo.Graph;
 
-/**
- * Created by maayan.s on 3/30/17.
- */
 public class execute {
 
 

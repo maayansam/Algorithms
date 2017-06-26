@@ -6,9 +6,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
 
-/**
- * Created by maayan.s on 1/3/17.
- */
+
 public class FileReader {
 
 

@@ -4,16 +4,14 @@ import java.io.*;
 import java.io.IOException;
 import java.text.DateFormatSymbols;
 
-/**
- * Created by maayan.s on 12/27/16.
- */
+
 public class RunIOs {
 
     static final String IO_FILE = "IOOperations.txt";
     static final int MONTH_JANUARY = 0;
     static final int[] januaryBirthdays = {1, 12, 14, 28};
     static final double[] ages = {33.2, 34.5, 37, 25.2};
-    static final String[] names = {"Tal", "Ran", "Lori", "Reef"};
+    static final String[] names = {"Aal", "Ran", "Lori", "Reef"};
 
     public static void main(String[] args) throws IOException {
 

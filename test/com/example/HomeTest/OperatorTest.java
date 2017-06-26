@@ -4,9 +4,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
-/**
- * Created by maayan.s on 1/22/17.
- */
+
 public class OperatorTest {
     @Test
     public void getToken() throws Exception {

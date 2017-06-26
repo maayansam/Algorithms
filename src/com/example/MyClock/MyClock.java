@@ -7,9 +7,6 @@ import java.lang.*;
 import java.util.concurrent.*;
 import java.util.*;
 
-/**
- * Created by maayan.s on 12/15/16.
- */
 public class MyClock {
 
     private int hours;

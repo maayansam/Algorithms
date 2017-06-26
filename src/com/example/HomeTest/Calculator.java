@@ -1,8 +1,6 @@
 package com.example.HomeTest;
 
-/**
- * Created by maayan.s on 1/9/17.
- */
+
 public class Calculator {
 
     public static final String UNARY_DECREMENT = "--";

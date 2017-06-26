@@ -2,9 +2,6 @@ package com.example.Algo.Premutation;
 
 import java.util.ArrayList;
 
-/**
- * Created by maayan.s on 4/16/17.
- */
 
 // aimed to solve the question: Determine if any 3 integers in an array sum to 0.
 // can use an integer more than once

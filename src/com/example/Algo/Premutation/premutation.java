@@ -1,8 +1,5 @@
 package com.example.Algo.Premutation;
 
-/**
- * Created by maayan.s on 3/25/17.
- */
 public class premutation {
 
     public static void execute(String str) {

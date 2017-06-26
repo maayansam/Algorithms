@@ -8,10 +8,6 @@ import java.util.Scanner;
 import java.util.concurrent.CountDownLatch;
 import java.util.stream.Collectors;
 
-/**
- * Created by maayan.s on 1/1/17.
- */
-
 public class ReadFromFilesThread implements Runnable {
 
         private final String fileName;

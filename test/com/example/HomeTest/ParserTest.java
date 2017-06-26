@@ -6,9 +6,6 @@ import java.util.Arrays;
 
 import static org.junit.Assert.*;
 
-/**
- * Created by maayan.s on 1/22/17.
- */
 public class ParserTest {
     @Test
     public void isNumberTest() throws Exception {
